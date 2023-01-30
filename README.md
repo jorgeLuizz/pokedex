@@ -1,4 +1,4 @@
 # pokedex
 
-Projetinho de uma Pokedex que fz para desenvolver melhor minhas
-habilidades em JavaScript, o segundo projetoi feito por mim.
+Projetinho de uma Pokedex que fiz durante uma edição do programa Dev em Dobro.
+Realizado para aprimorar as práticas em JavaScript.
